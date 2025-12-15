@@ -70,6 +70,34 @@
       "author": "Tom Fulp",
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
+    },
+    {
+      "location": "swfs/bloonstd.swf",
+      "title": "Bloons TD",
+      "author": "Ninja Kiwi",
+      "authorLink": "https://www.ninjakiwi.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/bloonstd2.swf",
+      "title": "Bloons TD 2",
+      "author": "Ninja Kiwi",
+      "authorLink": "https://www.ninjakiwi.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/Bloons_Tower_Defense_3.swf",
+      "title": "Bloons TD 3",
+      "author": "Ninja Kiwi",
+      "authorLink": "https://www.ninjakiwi.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/bloonstd4.swf",
+      "title": "Bloons TD 4",
+      "author": "Ninja Kiwi",
+      "authorLink": "https://www.ninjakiwi.com",
+      "type": "Game"
     }
   ]
 }
