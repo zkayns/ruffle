@@ -98,6 +98,13 @@
       "author": "Ninja Kiwi",
       "authorLink": "https://www.ninjakiwi.com",
       "type": "Game"
+    },
+    {
+      "location": "swfs/Fireboy and Watergirl.swf",
+      "title": "Fireboy & Watergirl in The Forest Temple",
+      "author": "Oslo Albet & Jan Villanueva",
+      "authorLink": "",
+      "type": "Game"
     }
   ]
 }
